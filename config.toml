@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://retromods.pl/"
+baseURL = "https://www.retromods.pl/"
 title = "RETROMODS - warsztat retro konsol"
 theme = "bookworm-light"
 # post pagination
@@ -80,7 +80,7 @@ favicon = "images/favicon.png"
 description = "Warsztat modów retro konsol"
 author = "Tomasz Prosty"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xvolbzpa" # contact form works with https://formspree.io
 # search
 search = true
 # main section
@@ -105,8 +105,8 @@ enable = true
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-title = "Subscribe for our monthly newsletter."
-input_placeholder = "Enter your email"
+title = "Zapisz się na newsletter mailowy, aby otrzymywać powiadomienia o nowych artykułach."
+input_placeholder = "Wpisz email"
 
 # cookies
 [params.cookies]
@@ -116,22 +116,12 @@ expire_days = 2
 
 ############################# Main Menu ########################
 [[menu.main]]
-name = "Home"
+name = "Główna"
 url = "/"
 weight = 1
   
 [[menu.main]]
-name = "About"
-url = "about/"
 weight = 3
-  
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 4
-  
-[[menu.main]]
-weight = 6
 url = "#"
 name = "Pages"
 hasChildren = true
@@ -172,40 +162,41 @@ hasChildren = true
   url = "terms-conditions/"
   weight = 6
 
+
+[[menu.main]]
+name = "O retromods.pl"
+url = "o-mnie/"
+weight = 4
+
+[[menu.main]]
+name = "Kontakt"
+url = "kontakt/"
+weight = 5
+
 ############################# Footer Menu ########################
 [[menu.footer]]
-name = "About"
-url = "about/"
+name = "O retromods.pl"
+url = "o-mnie/"
 weight = 1
 
 [[menu.footer]]
-name = "Authors"
-url = "author/"
+name = "Skontaktuj się z nami"
+url = "kontakt/"
 weight = 2
-
-[[menu.footer]]
-name = "Privacy"
-url = "privacy/"
-weight = 3
-
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 4
 
 # Social Icons
 [[params.social]]
+icon = "lab la-twitch"
+url = "https://www.twitch.tv/proszty"
+
+[[params.social]]
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/proszty"
 
 [[params.social]]
 icon = "lab la-twitter" # https://icons8.com/line-awesome
-url = "https://www.twitter.com/"
-
-[[params.social]]
-icon = "lab la-instagram" # https://icons8.com/line-awesome
-url = "https://www.instagram.com/"
+url = "https://www.twitter.com/tzubertowski"
 
 [[params.social]]
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/tzubertowski"
