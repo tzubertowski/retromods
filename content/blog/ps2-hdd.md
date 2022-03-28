@@ -29,7 +29,7 @@ Dysk HDD w konsoli PS2 wykorzystywany był w niewielu tytułach, takich jak Fina
 A przynajmniej było tak przed powstaniem modyfikacji oprogramowania. Aktualnie na dysk PS2 jesteśmy w stanie wrzucać komfortowo nasze kopie gier, emulatory, romy oraz inne.
 
 ### 2. Network adapter a dysk IDE/SATA
-Ci z was, którzy mieli komputer PC w latach 90 zauważyli na pewno, że network adapter od Sony posiada złącze typu IDE. Tym samym sam network adapter umożliwia podpięcie tylko i wyłącznie dysków IDE.
+Ci z was którzy mieli komputer PC w latach 90, zauważyli na pewno, że network adapter od Sony posiada złącze typu IDE. Tym samym sam network adapter umożliwia podpięcie tylko i wyłącznie dysków IDE.
 
 Niestety, dyski z tym złączem są już stare. Dyski są drogie, rzadkie i małych rozmiarów. Ich mechaniczna konstrukcja oznacza, że wraz z wiekiem narażone są one na uszkodzenia fizyczne, bad sektory oraz utratę danych. Zdecydowanie odradzam zakup takiego dysku, nawet na potrzeby 20 letniego już PS2.
 
@@ -38,9 +38,9 @@ Niestety, dyski z tym złączem są już stare. Dyski są drogie, rzadkie i mał
 </p>
 
 Głowa do góry. Jest kilka opcji jak podłaćzyć tańszy, większy i szybszy dysk do PS2. Z pomocą przychodzi SATA.
-Większość komputerów stacjonarnych i laptopów od wielu latu żywa standardu podłączenia dysków SATA. SATA jest bezpośrednim następcą portu IDE o którym pisałem powyżej.
+Większość komputerów stacjonarnych i laptopów od wielu latu żywa standardu podłączenia dysków SATA. SATA jest bezpośrednim następcą portu IDE, o którym pisałem powyżej.
 
-IDE jest złe, SATA jest ok. Jak sprawić żeby PS2 zaakceptowało dyski SATA?
+IDE jest złe, SATA jest ok. Jak sprawić, żeby PS2 zaakceptowało dyski SATA?
 
 #### 2.1 Chińskie network adaptery
 <p align="center">
@@ -54,11 +54,11 @@ W czym problem?
 - Chińskie Network Adaptery **nie wspierają połączenia sieciowego**
 
 Na dzisiejszy dzień użyteczność połączenia sieciowego w przypadku PS2 jest znikoma. Oficjalne serwery gier PS2 są od dawna wyłączone. Do kilku gier istnieją jednak serwery prywatne, eg. do SOCOMa.
-To co boli bardziej to to, że połączenie sieciowe może zostać wykorzystane do podłączenia PS2 do sieci lokalnej i zgrywania kopii gier bezpośrednio na dysk przez sieć. Tym samym nie musimy rozkręcać konsoli za kazdym razem, gdy chcemy wgrać nową grę. Zgrywanie te jednak jest dość powolne i mija się z celem w przypadku wgrywania dużej kolekcji gier.
+To, co boli bardziej to to, że połączenie sieciowe może zostać wykorzystane do podłączenia PS2 do sieci lokalnej i zgrywania kopii gier bezpośrednio na dysk przez sieć. Tym samym nie musimy rozkręcać konsoli za kazdym razem, gdy chcemy wgrać nową grę. Zgrywanie te jednak jest dość powolne i mija się z celem w przypadku wgrywania dużej kolekcji gier.
 
 **Plusy**
 
-Jeżeli nie zależy wam na zrzucaniu gier przez sieć lokalną oraz na graniu w tą garstkę gier z prywatnymi serwerami - bierzcie tani (koszt ok 50 zł), chiński adapter z portem SATA.
+Jeżeli nie zależy wam na zrzucaniu gier przez sieć lokalną oraz na graniu w tę garstkę gier z prywatnymi serwerami - bierzcie tani (koszt ok. 50 zł), chiński adapter z portem SATA.
 
 Dołączam link do adaptera, który sam posiadam oraz polecam każdemu zainteresowanemu tematyką HDD na PS2:
 - https://bit.ly/3IFFr5b
@@ -105,12 +105,12 @@ Tak, jak najbardziej.
 
 Dyski HDD są tanie, mają dużą pojemność i są łatwo dostępne oraz ciche (jeżeli wiecie na co patrzeć).
 
-Na co patrzymy wybierając dysk HDD?
+Na co patrzymy - wybierając dysk HDD?
 - polecam dyski 2.5", gdyż takie montuje się w laptopach. Duża dostępność w niskich cenach
 - dysk HDD powinien mieć optymalnie 7200 RPM. Takie dyski są o niebo lepszej jakości niż dyski 5200 RPM, gdyż 7200 RPM zazwyczaj mają zastosowania biznesowe bądź serwerowe gdzie każda awaria to ogromny problem. Ponadto dyski 7200 posiadają cache podobny od tego z dysków SSD, przez co odczytują dane szybciej
 - to tylko preferencja co do marki, ale serdecznie polecam dyski WD. Mniej polecam dyski Seagate
 
-Ile zapłacić za taki dysk? Ja za używany dysk 1TB, 7200 RPM, 2.5" WD zapłaciłem 39 zł ;) Nie przepłacajcie
+Ile zapłacić za taki dysk? Ja za używany dysk 1TB, 7200 RPM, 2.5" WD zapłaciłem 39 zł ;) Nie przepłacajcie.
 
 ### Dodatkowe notki
 #### 1. PS2 Slim i podłączenie dysku
@@ -128,7 +128,7 @@ Nie polecam jednak tego sposobu. Na PS2 slim, za dosłownie mniej niż 60 zł, m
 <p align="center">
   <img alt="Expansion bay dla PS2 fat" width="500" src="/post/ps2-hdd/sdreader.jpg" />
 </p>
-Nie chcecie się bawić wcale w dyski? Jeżeli macie PS2 fat to macie opcję podłączenia sobie czytnika kart SD zamiast fizycznego dysku. Po prostu wpinacie adapter pod port IDE/SATA waszego Network Adaptera a kartę SD przygotowujecie tak jakby była zwykłym dyskiem od PS2.
+Nie chcecie się bawić wcale w dyski? Jeżeli macie PS2 fat to macie opcję podłączenia sobie czytnika kart SD zamiast fizycznego dysku. Po prostu wpinacie adapter pod port IDE/SATA waszego Network Adaptera a kartę SD przygotowujecie tak, jakby była zwykłym dyskiem od PS2.
 
 - https://bit.ly/3qDtO8M
 - https://bit.ly/3qIFmYi
@@ -139,7 +139,7 @@ Nie chcecie się bawić wcale w dyski? Jeżeli macie PS2 fat to macie opcję pod
 </p>
 W mojej opinii najlepszą formą przechowywania kopii waszych gier (wygodniejsza niż HDD) oraz odpalania ich na PS2 jest tzw. serwer SMB.
 
-Rozwiązanie te polega na tym, że do PS2 podłączamy router/raspberry pi/inny mały komputer który dzieli pliki naszych gier bezpośrednio przez sieć do PS2.
+Rozwiązanie te polega na tym, że do PS2 podłączamy router/raspberry pi/inny mały komputer, który dzieli pliki naszych gier bezpośrednio przez sieć do PS2.
 
 **Plusy**
 - realna prędkość ładowania gier porównywalna jest do PS2 Fat z HDD
