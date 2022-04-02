@@ -1,9 +1,9 @@
 <!doctype html><html lang=en-us>
 <head>
 <meta charset=utf-8>
-<title>Categories</title>
+<title>PS2 - granie bez użycia DVD</title>
 <meta name=author content="Tomasz Prosty">
-<meta name=description content="  Warsztat modów retro konsol  ">
+<meta name=description content=" meta description ">
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=5">
 <link rel="shortcut icon" href=/images/favicon_huaeb0b0972f40e583996ab67654b68b58_831_32x0_resize_box_3.png type=image/x-icon>
 <link rel=icon href=/images/favicon_huaeb0b0972f40e583996ab67654b68b58_831_32x0_resize_box_3.png type=image/x-icon>
@@ -80,28 +80,196 @@ AUTHOR WEBSITE: https://themefisher.com
 <input id=search-query name=s type=search placeholder="Type words & hit enter" class=text-center aria-label=search-query>
 </form>
 </div>
-<section class="section-sm pb-2 page-header">
-<div class=container>
-<div class=row>
-<div class="col-8 mx-auto text-center">
-<h3 class="mb-3 text-dark font-weight-bold">Categories</h3>
-<ul class="list-inline breadcrumb-menu">
-<li class=list-inline-item><a href=/>Home</a></li>
-<li class=list-inline-item>/ &nbsp; <a href=https://www.retromods.pl/categories>Categories</a></li>
-</ul>
-</div>
-</div>
-</div>
-</section>
 <section class=section-sm>
 <div class=container>
-<div class="row justify-content-center text-center">
-<div class=col-12>
-<ul class="list-inline taxonomies-list">
-<li class="list-inline-item mb-1">
-<a class="h5 px-4 py-3 rounded bg-light d-block font-weight-700" href=https://www.retromods.pl/categories/ps2/><i class="las la-tags mr-1"></i> PS2 (2)</a>
+<div class="row justify-content-center">
+<div class=col-lg-10>
+<div class="text-center mb-5">
+<h3 class="h2 mb-4 post-title">PS2 - granie bez użycia DVD</h3>
+<ul class="card-meta list-inline">
+<li class=list-inline-item>
+<a href=#! class=card-meta-author>
+</a>
+</li>
+<li class=list-inline-item>|</li>
+<li class=list-inline-item>
+<span>29 March 2022</span>
 </li>
 </ul>
+</div>
+<div class="mb-5 text-center">
+<picture>
+<source srcset=/images/post/ps2-opl/bg_hu3a2245f1e2e02d8c85c8dae5805b99b5_1796516_545x0_resize_q95_h2_box.webp media="(max-width: 575px)">
+<source srcset=/images/post/ps2-opl/bg_hu3a2245f1e2e02d8c85c8dae5805b99b5_1796516_600x0_resize_q95_h2_box.webp media="(max-width: 767px)">
+<source srcset=/images/post/ps2-opl/bg_hu3a2245f1e2e02d8c85c8dae5805b99b5_1796516_700x0_resize_q95_h2_box.webp media="(max-width: 991px)">
+<source srcset=/images/post/ps2-opl/bg_hu3a2245f1e2e02d8c85c8dae5805b99b5_1796516_1110x0_resize_q95_h2_box.webp>
+<img loading=lazy decoding=async class="img-fluid rounded" src=/images/post/ps2-opl/bg_hu3a2245f1e2e02d8c85c8dae5805b99b5_1796516_1110x0_resize_q95_box.jpg alt="Post image" width=4032 height=3024>
+</picture>
+</div>
+<div class=content>
+<p>Jeżeli jesteście posiadaczami PS2 to zapewne spotkaliście się z problemem, gdy konsola nie czyta niektórych (lub wszystkich) płyt. Zazwyczaj zaczyna się to od zaprzestania czytania płyt CD, szczególnie gier z PS1.
+Niestety, ale projekt lasera który został użyty w PS2 nie wytrzymał próby czasu. Lasery PS2 prędzej czy później przestają działać, a wymiana ich na nieoficjalne kopie to walka z wiatrakami. Prędzej czy później twoje PS2 przestanie czytać płyty.</p>
+<h3 id=1-czy-na-każdym-ps2-da-się-grać-bez-płyt>1. Czy na każdym PS2 da się grać bez płyt?</h3>
+<p>Aby grac w nasze kopie gier, musimy posiadać przerobione PS2.</p>
+<p>Od kilku lat każde jedno PS2 jest modyfikowalne softowo - bez użycia chipa. Najczęściej spotykaną metodą takiej przeróbki jest FreeMcBoot (FreeHddBoot dla PS2 fat z HDD). Mitem jest, jakoby modele PS2 Slim 9000 nie wspierały takowej przeróbki, od wielu lat bowiem FunTuna pozwala nam na odpalenie FreeMcBoot.</p>
+<p>Co daje nam taka przeróbka softowa? Pozwala nam na odpalanie programów homebrew - tworzonych przez społeczność fanów PS2. Najbardziej znanym programem tego typu jest <strong>OPL - Open PS2 Loader</strong>.</p>
+<h3 id=2-w-jaki-sposób-odpalimy-gry-bez-dvd-na-opl>2. W jaki sposób odpalimy gry bez DVD na OPL?</h3>
+<p>OPL umożliwia nam włączanie kopii swoich gier, min z:</p>
+<ul>
+<li>nośników USB (pendrivy, czytniki kart SD)</li>
+<li>HDD (w przypadku PS2, lub niektórych modyfikowanych PS2 slim)</li>
+<li>serwerów sieciowych SMB</li>
+<li>MC2SIO/MX4SIO; adapterów na karty SD w slocie na karty pamięci na PS2</li>
+</ul>
+<p>Problemem jest to, że niektóre z tych możliwości są wolniejsze, mniej kompatybilne od innych.</p>
+<h5 id=21-opl--usb>2.1 OPL + USB</h5>
+<p>Wiele osób czytając USB pomyśli sobie - o, hej, PS2 wspiera ładowanie przez USB? Problem z głowy! Niestety nie ma tak słodko. Interfejs USB na PS2 to zaledwie USB 1.1. Transfer danych przez USB 1.1 jest o wiele wolniejszy niż gdyby PS2 czytało dane z płyty DVD/CD.</p>
+<p>Tym samym ładując gry przez USB możemy oczekiwac baaaardzo wolnego ładowania gier. To nie było by takie złe, ale znaczna większość filmów z gier (FMV) przy użyciu USB będzie zacinała. Ponadto wiele z najlepszych gier na PS2 wcale się nie włączy przy użyciu ładowania z USB.</p>
+<p>To najgorsza opcja z wyżej przedstawionych, nie wchodźcie w to.</p>
+<h5 id=22-opl--hdd>2.2 OPL + HDD</h5>
+<p>To najlepsza, najtańsza, najszybsza opcja.. jeżeli mamy PS2 fat. Teoretycznie kilka modeli PS2 Slim także można zmusić do ładowania gier z HDD, ale traktowałbym to jako ciekawostkę a nie jako opcję.</p>
+<p>Używanie dysku HDD oznacza ładowanie dużo szybsze niz z DVD, kompatybilność minimalnie mniejszą jak przy użyciu nośników optycznych.
+Jesteś zainteresowany? Przeczytaj <a href=https://www.retromods.pl/blog/ps2-hdd/>artykuł który napisałem o HDD w PS2</a>. Niedługo pojawi się także artykuł/film jak na taki HDD wgrywać kopie gier.</p>
+<h5 id=23-opl--serwer-smb>2.3 OPL + serwer SMB</h5>
+<p>To druga najlepsza opcja po dysku HDD! Minusem jest to, że ładowanie gier jest niezauważalnie wolniejsze niż w przypadku HDD. Plusem natomiast to, że każde jedno PS2 wspiera ładowanie gier przez serwer SMB.</p>
+<p>A co to ten cały serwer SMB? Mały komputerek (ja polecam router TPlink nano TL-WR802N, niektórzy używają RaspberryPi) który podłączamy za pomocą kabla ethernet do konsoli. Komputerek ten dzieni naszemu PS2 gry, po sprawie : ).
+Na stronie pojawi się dedykowany artykuł jak złożyć takie cudo.</p>
+<h5 id=24-opl--mc2siomx4sio>2.4 OPL + MC2SIO/MX4SIO</h5>
+<p>To opcja wolniejsza niż HDD i SMB, wolniejsza też niż ładowanie gier z DVD. Plusem jest to, że jest nieco szybsza niż ładowanie z USB więc większość filmów FMV ładuje się nam poprawnie! Jest to też wygodna opcja, gdzie po prostu operujemy na karcie MicroSD zamiast odłączać dysk, czy bawić się w serwery SMB.</p>
+<p>Największy minus? Kompatybilność gier jest najniższa ze wszystkich opisywanych tu metod. Nie możemy też zapisywać (aktualnie) stanu swojej rozgrywki.
+To raczej ciekawostka, aniżeli coś co mogę polecić.</p>
+<h3 id=3-jakie-są-problemy-opl>3. Jakie są problemy OPL?</h3>
+<ul>
+<li>Nie wszystkie gry działają z OPL, chociaż zdecydowana większośc jak najbardziej działa.</li>
+<li>Kopie naszych gier musimy przygotować specjalnym programem (OPL manager).</li>
+<li>Brak natywnego, wbudowanego wsparcia dla gier z PS1. Część gier możemy odpalić za pomocą POPS loadera - emulatora PS1 dla PS2. Niestety gry często tną, lub się nie włączają. Jeżeli chcemy grać w gry z PS1 - pozostaje nam sprawny laser i/lub przeróbka chipem.</li>
+</ul>
+<p>Społeczność PS2 powoli rozwija opcję odpalania gier z PS1 bez użycia modchipa, przeczytaj o MechaPWN jezeli cię to zainteresowało.</p>
+<h3 id=4-jakie-rozwiązanie-dla-mojego-ps2>4. Jakie rozwiązanie dla mojego PS2?</h3>
+<p>Wiecie już jakie są możliwości. Którą wybrać dla siebie? Prosta sprawa.</p>
+<ul>
+<li><strong>PS2 Fat</strong>: HDD i Network Adapter</li>
+<li><strong>PS2 Slim</strong>: Serwer SMB</li>
+</ul>
+<p>Reszta rozwiązań jest w powijakach, jest ciekawostką (jak PS2 Slim i HDD) albo sprawia za dużo problemów w użytkowaniu.</p>
+</div>
+</div>
+</div>
+<div class=single-post-meta>
+<div class="row justify-content-center">
+<div class="col-lg-5 col-md-6 text-center text-md-left">
+<ul class="post-meta-tags list-unstyled list-inline">
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/diy>Diy</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/ps2>PS2</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/opl>OPL</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/hdd>HDD</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/smb>SMB</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/usb>USB</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/network-adapter>network adapter</a></li>
+</ul>
+</div>
+<div class="col-lg-5 col-md-6 text-center text-md-right mt-4 mt-md-0">
+<ul class="social-links has-bg-color list-unstyled list-inline" style=line-height:0>
+<li class=list-inline-item>
+<a class="resp-sharing-button__link d-block" href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.retromods.pl%2fblog%2fps2-hdd-smb%2f" target=_blank rel=noopener aria-label>
+<div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small">
+<div aria-hidden=true class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<i class="lab la-facebook-f text-dark"></i>
+</div>
+</div>
+</a>
+</li>
+<li class=list-inline-item>
+<a class="resp-sharing-button__link d-block" href="https://twitter.com/intent/tweet/?text=PS2%20-%20granie%20bez%20u%c5%bcycia%20DVD&url=https%3a%2f%2fwww.retromods.pl%2fblog%2fps2-hdd-smb%2f" target=_blank rel=noopener aria-label>
+<div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small">
+<div aria-hidden=true class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<i class="lab la-twitter text-dark"></i>
+</div>
+</div>
+</a>
+</li>
+<li class=list-inline-item>
+<a class="resp-sharing-button__link d-block" href="https://plus.google.com/share?url=https%3a%2f%2fwww.retromods.pl%2fblog%2fps2-hdd-smb%2f" target=_blank rel=noopener aria-label>
+<div class="resp-sharing-button resp-sharing-button--google resp-sharing-button--small">
+<div aria-hidden=true class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<i class="lab la-google-plus-g text-dark"></i>
+</div>
+</div>
+</a>
+</li>
+<li class=list-inline-item>
+<a class="resp-sharing-button__link d-block" href="mailto:?subject=PS2%20-%20granie%20bez%20u%c5%bcycia%20DVD&body=https%3a%2f%2fwww.retromods.pl%2fblog%2fps2-hdd-smb%2f" target=_self rel=noopener aria-label>
+<div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small">
+<div aria-hidden=true class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<i class="las la-envelope text-dark"></i>
+</div>
+</div>
+</a>
+</li>
+<li class=list-inline-item>
+<a class="resp-sharing-button__link d-block" href="whatsapp://send?text=PS2%20-%20granie%20bez%20u%c5%bcycia%20DVD%20https%3a%2f%2fwww.retromods.pl%2fblog%2fps2-hdd-smb%2f" target=_blank rel=noopener aria-label>
+<div class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--small">
+<div aria-hidden=true class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<i class="lab la-whatsapp text-dark"></i>
+</div>
+</div>
+</a>
+</li>
+</ul></div>
+</div>
+</div>
+<div class=single-post-author>
+<div class="row justify-content-center">
+<div class=col-lg-10>
+<div class="media d-block d-sm-flex text-center text-sm-left">
+</div>
+</div>
+</div>
+</div>
+<div class=single-post-similer>
+<div class="row justify-content-center">
+<div class=col-lg-10>
+<div class="row mt-3">
+<div class=col-12>
+<h3 class="text-dark font-weight-800 mb-4 pb-2">You May Also Like</h3>
+</div>
+<div class=col-md-6>
+<article class="card post-card">
+<a href=https://www.retromods.pl/blog/ps2-hdd/>
+<picture>
+<source srcset=/images/post/ps2-hdd/ps2hdd_hu87b4007fd19b2102e3b9d7b020794441_102296_545x0_resize_q95_h2_box.webp media="(max-width: 575px)">
+<source srcset=/images/post/ps2-hdd/ps2hdd_hu87b4007fd19b2102e3b9d7b020794441_102296_600x0_resize_q95_h2_box.webp media="(max-width: 767px)">
+<source srcset=/images/post/ps2-hdd/ps2hdd_hu87b4007fd19b2102e3b9d7b020794441_102296_700x0_resize_q95_h2_box.webp media="(max-width: 991px)">
+<source srcset=/images/post/ps2-hdd/ps2hdd_hu87b4007fd19b2102e3b9d7b020794441_102296_1110x0_resize_q95_h2_box.webp>
+<img loading=lazy decoding=async class="w-100 h-auto rounded" src=/images/post/ps2-hdd/ps2hdd_hu87b4007fd19b2102e3b9d7b020794441_102296_1110x0_resize_q95_box.jpg alt="Jak podłączyć dysk do ps2" width=970 height=500>
+</picture>
+</a>
+<div class=card-body>
+<ul class="card-meta list-inline mb-2">
+<li class="list-inline-item mb-2">
+</li>
+<li class="list-inline-item mb-2">
+<span>27 Mar, 2022</span>
+</li>
+<li class="list-inline-item mb-2">
+<ul class="card-meta-tag list-inline">
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/diy>Diy</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/ps2>PS2</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/opl>OPL</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/hdd>HDD</a></li>
+<li class=list-inline-item><a href=https://www.retromods.pl/tags/network-adapter>network adapter</a></li>
+</ul>
+</li>
+</ul>
+<h3 class=mb-3>
+<a class=post-title href=https://www.retromods.pl/blog/ps2-hdd/>Jak podłączyć dysk do ps2</a>
+</h3>
+<p>1. Expansion bay. Dla kogo to? Czemu to służy? Pierwsze modele PS2 w regonie PAL i NTSC (różnie to bywało z NTSC-J), powszechnie znane jako &amp;ldquo;PS2 …</p>
+</div>
+</article>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
