@@ -133,6 +133,12 @@ hasChildren = true
   weight = 1
   
 
+  [[menu.main]]
+  parent = "Kategorie"
+  name = "PSP"
+  url = "categories/psp/"
+  weight = 2
+
 [[menu.main]]
 name = "O retromods.pl"
 url = "o-mnie/"
