@@ -63,5 +63,14 @@ Oczywiście Aya Neo rozkręca się bardziej po kątem poboru mocy niż Steam Dec
 
 Deck jest słabszy, ale jest o niebo tańszy i nieporównywalnie bardziej opłacalny.
 
+### Steam Deck jak PS Vita - łatwość pisania gier
+Sony wspierając oprogramowanie Vity miało w swojej głowie także, wtedy jeszcze nowe, PS4. SDK, czyli oprogramowanie do tworzenia gier, było praktycznie takie samo jak w przypadku PS4 jak i Vity. Różnice były tyle małe, że wielu twórców indie wypowiadało się swojego czasu na Twitterze jakoby portowanie ich gier z PS4 na Vitę było głównie problematyczne przez skalowanie elementów UI, modeli oraz tekstur. 
+
+Pomimo skrajnie różnych architektur PS4 i Vity - portowanie gier z dużego brata na małego było wyjątkowo proste. 
+
+
+Steam Deck idzie o krok do przodu. Portowanie gier nie jest potrzebne, bo Steam Deck to zwyczajny komputer. Ma to swoje plusy - ogromną bibliotekę gier, ale także minusy - gry ważą wielokrotnie więcej niz porty na Switcha. To właśnie z racji tego, że ściągamy pełnoprawne tytuły z teksturami i modelami bez skalowania i optymalizacji pod mały ekran decka.
+Tak samo wiele gier na decku cierpi z racji słabego UI/UX. Memem wśród społeczności jest ocena gry "bring your glasses with you" :)
+
 ### I po co był mi ten post?
-Chciałem wyrazić swoją zajawkę Steam Deckiem. Skończyłem na nim więcej gier w 2 miesiące niż na swoim gaming PC w 2 lata.
+Chciałem wyrazić swoją zajawkę Steam Deckiem. Skończyłem na nim więcej gier w 2 miesiące niż na swoim gaming PC w 2 lata. Granie na Steam Decku przeplatam graniem na Playstation Vita. Życie jest dobre :)
