@@ -11,21 +11,23 @@ categories: ["Steam Deck"]
 ---
 
 ### Wprowadzenie
-Kupiłem switcha w dniu premiery. Kupiłem Playstation Vita lata po premierze. Switch jest mi w dużej części neutralny, a może nawet obojętny. Vita jest moją ulubioną konsolą przenośną.
+Kilka lat temu kupiłem switcha w dniu premiery - Playstation Vita natomiast kupiłem dopierolata po premierze. Switch jest mi w dużej części obojętny, Vita jest moją ulubioną konsolą przenośną.
 
-Steam Decka kupiłem prawie po roku od jego premiery obawiając się, że nie poczuję do niego nic tak jak to było ze Switchem od Nintendo. Na szczęście od wyjęcia z pudełka Steam Decka nasza znajomość przypominała tą z Vitą i z PSP. Zakochałem się, choć nie od pierwszego wejrzenia.
+Do kupna Steam Decka musiałem "dojrzeć", kupiłem prawie po roku od jego premiery obawiając się, że nie poczuję do niego nic tak jak to było ze Switchem od Nintendo. Na szczęście od wyjęcia z pudełka SD nasza znajomość przypominała tą z Vitą (a przed nią z PSP). Zakochałem się, choć nie od pierwszego wejrzenia.
+
 
 Ten materiał nie będzie recenzją, czy też analizą Steam Decka. Ten post będzie bardzo subiektywnym porównaniem jednych z moich ulubionych handheldów.
 
 ### Steam Deck to nowa Vita? Masz na myśli jakość wykonania?
-Vita zachwyciła mnie jakością wykonania. Do dziś podziwiam design Sony co do modelu 1000. Minimalne ramki ekranu, ekran OLED, przyciski z odpowiednim skokiem, jeden z najlepszych d-padów z jakim miałem styczność. Tylko analogi niemrawe, no i te głośniki. Jak się ma do tego SD?
+Lata temu Vita zachwyciła mnie jakością wykonania. Do dziś podziwiam design Sony modelu 1000. Minimalne ramki ekranu, ekran AMOLED, przyciski z odpowiednim skokiem, jeden z najlepszych d-padów z jakim miałem styczność. Tylko analogi niemrawe, no i te głośniki.
 
 Steam Deck jest swojego rodzaju odwrotnością Vity pod kątem wykonania i designu. Słaba, plastikowa obudowa. Ogromne ramki ekranu, ekran LCD/IPS a nie OLED. Za to fantastyczne analogi, świetne głosniki. Zupełnie inne niż w przypadku Vity przyciski - fenomenalne na swój sposób.
 
-Pomimo skrajnych różnic co do wykonania Vity i Steam Decka to co mają ze sobą wspólnego to komfort grania. Trzymając zarówno Vitę jak i Steam Decka w rękach mamy po prostu wrazenie, że obcujemy ze sprzętem do grania stworzonym dla graczy. Niestety tego wrażenia nigdy nie wywarł na mnie Nintendo Switch - zarówno v1, v2, Lite jak i model Oled. W porównaniu do Vity i Steam Decka - Switch wydaje się zabawką, kawałkiem plastiku a nie sprzętem do grania.
+
+Pomimo skrajnych różnic co do wykonania Vity i Steam Decka to co mają ze sobą wspólnego to komfort grania. Trzymając zarówno Vitę jak i Steam Decka w rękach mamy po prostu wrazenie, że obcujemy ze sprzętem do grania stworzonym dla graczy. Niestety tego wrażenia nigdy nie wywarł na mnie Nintendo Switch - zarówno v1, v2, Lite jak i model Oled. Zarówno Steam Deck jak i Vita, w przeciwieństwie do Switcha, sprawia wrażenie sprzętu stworzonego do grania.
 
 ### Wolność oprogramowania
-Wolność Steam Decka ujawnia się w sposobie w jaki Steam pozwala nam integrować tytuły spoza Steama - nawet na systemie od Valve. Instalacja Diablo 2 Resurrected przez Battle Neta trwała u mnie 30 minut. Po prostu dodałem Battlenet launcher jako grę spoza steama i wszystko działało. 
+Wolność Steam Decka ujawnia się w sposobie w jaki Steam pozwala nam integrować tytuły spoza Steama - nawet na systemie od Valve. Dam wam przykład - instalacja Diablo 2 Resurrected przez Battle Neta trwała u mnie 30 minut. Po prostu dodałem Battlenet launcher jako grę spoza steama i wszystko działało. 
 
 
 Z racji otwartości na oprogramowanie 3rd party Steam Deck posiada bardzo, bardzo dopracowany aspekt emulacji innych konsol. Mimo, że posiadam dedykowanego Retroid Pocket 2+ to Steam Deck coraz bardziej przejmuje jego rolę. Instalacja emulatorów to, dosłownie, kilka minut. Emulowane gry pojawiają się bezpośrednio jako gry z biblioteki steam.
@@ -42,18 +44,18 @@ Dam wam przykład z własnej ręki - Diablo 2 Resurrected, mój ukochany hack'n'
 
 
 ### Dobre value, najlepsze na rynku
-Jakiś czas temu popularny i szanowany kanał YT Linus Tech Tips stwierdził, że Steam Deck to najbardziej opłacalny komputer do grania. W jego cenie nie złożysz lepszego/wydajniejszego komputera przy użyciu nowych części.
+Jakiś czas temu popularny kanał YT Linus Tech Tips stwierdził, że Steam Deck to najbardziej opłacalny komputer do grania. W jego cenie nie złożysz lepszego/wydajniejszego komputera przy użyciu nowych części.
 Pamiętaj jednak - Steam Deck to nie tylko komputer, to także konsola przenośna. Za 1900 zł otrzymujesz tak gaming PC na którym możesz pograć jak na każdym innym jak i jednego z najbardziej wydajnych uPC/handheldów na rynku.
 
 
-Hardware Steam Decka nie jest jednak najsilniejszy na rynku. Od wielu miesięcy istnieją handheldy o lepszych parametrach. Dlaczego jednak o nich się wiele nie słyszy? Tworzone są one bez myśli o dłuższym wsparciu. Firmy jak Ayaneo zasypują nas nowymi modelami średnio co 3 miesiące. Każdy z nich "szybszy", "lepszy" a jednak żaden z nich nie wygryzł znacznej części rynku Steam Decka dla siebie.
+Hardware Steam Decka nie jest jednak najsilniejszy na rynku. Od wielu miesięcy istnieją handheldy o lepszych parametrach. Dlaczego jednak o nich się wiele nie słyszy? Tworzone są one bez myśli o dłuższym wsparciu produktu. Firmy jak Ayaneo zasypują nas nowymi modelami średnio co 3 miesiące. Każdy z nich "szybszy", "lepszy" a jednak żaden z nich nie wygryzł znacznej części rynku Steam Decka dla siebie.
 
 Konsole te tworzone są z myślą o szybkiej sprzedaży, zrzuceniu odpowiedzialności za wsparcie softwarowe na windowsa, zrzuceniu odpowiedzialności za wsparcie techniczne na sprzedawców bądź producentów podzespołów.  Steam Deck natomiast to konsola od A do Z. Ewidentnie został stworzony z myślą o długoterminowym wsparciu co Valve pokazuje swoim fenomenalnym wsparciem technicznym od gwarancji poprzez aktualizacje oprogramowania.
 
 Nawet jeżeli nie interesuje was wsparcie (choć powinno) to najlepsza dla graczy metryka - "fps per $". Najtańsza Ayaneo 2, czyli bezpośredni konkurent dla SD, to "jedynie" 3800 zł. Steam Deck to 1900 zł w najtańszej odsłonie.
 
 <p align="center">
-  <img alt="PSX2PSP struktura folderów" width="1000" src="/post/sd-sony-od-valve/horizon_porownanie.jpg" />
+  <img alt="Ayaneo 2 vs Steam Deck: Horizon Zero Dawn" width="1000" src="/post/sd-sony-od-valve/horizon_porownanie.png" />
 </p>
 Na przykładzie powyższego benchmarku - przy 15W (maksymalnej mocy SD) metryka "fps per dollar", a dla ułatwienia dla moich rodaków - "fps per złotówka" to:
 - dla SD 1FPS:38.77zł
