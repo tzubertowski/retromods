@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PSP on RETROMODS - warsztat retro konsol</title><link>https://www.retromods.pl/tags/psp/</link><description>Recent content in PSP on RETROMODS - warsztat retro konsol</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 23 May 2022 16:56:47 +0600</lastBuildDate><atom:link href="https://www.retromods.pl/tags/psp/index.xml" rel="self" type="application/rss+xml"/><item><title>Gry z PS1 na PSP</title><link>https://www.retromods.pl/blog/psp-ps1-psx/</link><pubDate>Mon, 23 May 2022 16:56:47 +0600</pubDate><guid>https://www.retromods.pl/blog/psp-ps1-psx/</guid><description>1. PS1 na PSP, jak to możliwe? Większość z nas, fanów retro, zdaje sobie sprawę z możliwości gry w tytuły z Playstation 1 na Playstation Portable.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PSP on RETROMODS - warsztat retro konsol</title>
+    <link>http://localhost:1313/tags/psp/</link>
+    <description>Recent content in PSP on RETROMODS - warsztat retro konsol</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 May 2022 16:56:47 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/psp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gry z PS1 na PSP</title>
+      <link>http://localhost:1313/blog/psp-ps1-psx/</link>
+      <pubDate>Mon, 23 May 2022 16:56:47 +0600</pubDate>
+      <guid>http://localhost:1313/blog/psp-ps1-psx/</guid>
+      <description>1. PS1 na PSP, jak to możliwe? Większość z nas, fanów retro, zdaje sobie sprawę z możliwości gry w tytuły z Playstation 1 na Playstation Portable.</description>
+    </item>
+  </channel>
+</rss>

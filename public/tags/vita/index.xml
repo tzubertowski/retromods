@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vita on RETROMODS - warsztat retro konsol</title><link>https://www.retromods.pl/tags/vita/</link><description>Recent content in vita on RETROMODS - warsztat retro konsol</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 06 Jan 2023 16:56:47 +0600</lastBuildDate><atom:link href="https://www.retromods.pl/tags/vita/index.xml" rel="self" type="application/rss+xml"/><item><title>Steam Deck - moja druga Vita</title><link>https://www.retromods.pl/blog/sd-sony-od-valve/</link><pubDate>Fri, 06 Jan 2023 16:56:47 +0600</pubDate><guid>https://www.retromods.pl/blog/sd-sony-od-valve/</guid><description>Wprowadzenie Kilka lat temu kupiłem switcha w dniu premiery - Playstation Vita natomiast kupiłem dopierolata po premierze. Switch jest mi w dużej części obojętny, Vita jest moją ulubioną konsolą przenośną.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vita on RETROMODS - warsztat retro konsol</title>
+    <link>http://localhost:1313/tags/vita/</link>
+    <description>Recent content in Vita on RETROMODS - warsztat retro konsol</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Jan 2023 16:56:47 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steam Deck - moja druga Vita</title>
+      <link>http://localhost:1313/blog/sd-sony-od-valve/</link>
+      <pubDate>Fri, 06 Jan 2023 16:56:47 +0600</pubDate>
+      <guid>http://localhost:1313/blog/sd-sony-od-valve/</guid>
+      <description>Wprowadzenie Kilka lat temu kupiłem switcha w dniu premiery - Playstation Vita natomiast kupiłem dopierolata po premierze. Switch jest mi w dużej części obojętny, Vita jest moją ulubioną konsolą przenośną.</description>
+    </item>
+  </channel>
+</rss>

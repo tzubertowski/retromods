@@ -6,8 +6,6 @@ theme = "bookworm-light"
 paginate = "5"
 # post excerpt
 summaryLength = "20"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
 # disqus short name
 disqusShortname = "retromods-pl" # get your shortname form here : https://disqus.com
 
@@ -18,7 +16,7 @@ min = "0.87.0"
 
 ############################# Image Processing ##############################
 [imaging]
-quality = "95"
+quality = 95
 
 ############################# Outputs ##############################
 [outputs]
