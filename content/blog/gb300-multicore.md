@@ -2,7 +2,7 @@
 title: "GB300 - Port Multicore, przyśpieszenie/polepszenie jakości emulacji"
 description: "Kompilacja nowych wersji emulatorów, znaczące przyśpieszenie emulacji SNES/GBA"
 image: "images/post/gb300-multicore/multicore_gb300.jpg"
-date: 2023-01-06T16:56:47+06:00
+date: 2024-04-28T11:56:47+06:00
 draft: false
 author: "Prosty"
 tags: ["gb300", "sf2000", "multicore", "gpsp", "dynarec", "cfw"]
