@@ -6,7 +6,7 @@ date: 2024-04-28T11:56:47+06:00
 draft: false
 author: "Prosty"
 tags: ["gb300", "sf2000", "multicore", "gpsp", "dynarec", "cfw"]
-categories: ["Retro Handhelds"]
+categories: ["GB300 Retro Handheld"]
 ---
 ## Wstep
 Pragnę przyśpieszyć tego posta dla osób zainteresowanych. Wraz z użytkownikami discorda [Retro Handhelds](https://discord.com/invite/retrohandhelds) przeportowaliśmy modyfikację oprogramowania Mutlicore z SF2000 na GB300.
