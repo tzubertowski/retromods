@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on RETROMODS - warsztat retro konsol</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://www.retromods.pl/blog/</link>
     <description>Recent content in Blog on RETROMODS - warsztat retro konsol</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Jul 2025 10:56:47 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.retromods.pl/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SF2000/GB300 First steps &amp; Multicore setup</title>
-      <link>http://localhost:1313/blog/gb300-setup/</link>
+      <link>https://www.retromods.pl/blog/gb300-setup/</link>
       <pubDate>Fri, 18 Jul 2025 10:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/blog/gb300-setup/</guid>
+      <guid>https://www.retromods.pl/blog/gb300-setup/</guid>
       <description>SF2000/GB300 First steps &amp;amp; Multicore setup This article covers the installation of our software modification called Multicore for Datafrog SF2000 and GB300 handhelds.</description>
     </item>
     <item>
       <title>GB300 - Port Multicore, przyśpieszenie/polepszenie jakości emulacji</title>
-      <link>http://localhost:1313/blog/gb300-multicore/</link>
+      <link>https://www.retromods.pl/blog/gb300-multicore/</link>
       <pubDate>Sun, 28 Apr 2024 11:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/blog/gb300-multicore/</guid>
+      <guid>https://www.retromods.pl/blog/gb300-multicore/</guid>
       <description>Wstep Pragnę przyśpieszyć tego posta dla osób zainteresowanych. Wraz z użytkownikami discorda Retro Handhelds przeportowaliśmy modyfikację oprogramowania Mutlicore z SF2000 na GB300.</description>
     </item>
     <item>
       <title>Steam Deck - moja druga Vita</title>
-      <link>http://localhost:1313/blog/sd-sony-od-valve/</link>
+      <link>https://www.retromods.pl/blog/sd-sony-od-valve/</link>
       <pubDate>Fri, 06 Jan 2023 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/blog/sd-sony-od-valve/</guid>
+      <guid>https://www.retromods.pl/blog/sd-sony-od-valve/</guid>
       <description>Wprowadzenie Kilka lat temu kupiłem switcha w dniu premiery - Playstation Vita natomiast kupiłem dopierolata po premierze. Switch jest mi w dużej części obojętny, Vita jest moją ulubioną konsolą przenośną.</description>
     </item>
     <item>
       <title>Gry z PS1 na PSP</title>
-      <link>http://localhost:1313/blog/psp-ps1-psx/</link>
+      <link>https://www.retromods.pl/blog/psp-ps1-psx/</link>
       <pubDate>Mon, 23 May 2022 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/blog/psp-ps1-psx/</guid>
+      <guid>https://www.retromods.pl/blog/psp-ps1-psx/</guid>
       <description>1. PS1 na PSP, jak to możliwe? Większość z nas, fanów retro, zdaje sobie sprawę z możliwości gry w tytuły z Playstation 1 na Playstation Portable.</description>
     </item>
     <item>
       <title>PS2 - granie bez użycia DVD</title>
-      <link>http://localhost:1313/blog/ps2-hdd-smb/</link>
+      <link>https://www.retromods.pl/blog/ps2-hdd-smb/</link>
       <pubDate>Tue, 29 Mar 2022 12:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/blog/ps2-hdd-smb/</guid>
+      <guid>https://www.retromods.pl/blog/ps2-hdd-smb/</guid>
       <description>Jeżeli jesteście posiadaczami PS2 to zapewne spotkaliście się z problemem, gdy konsola nie czyta niektórych (lub wszystkich) płyt. Zazwyczaj zaczyna się to od zaprzestania czytania płyt CD, szczególnie gier z PS1.</description>
     </item>
     <item>
       <title>Jak podłączyć dysk do ps2</title>
-      <link>http://localhost:1313/blog/ps2-hdd/</link>
+      <link>https://www.retromods.pl/blog/ps2-hdd/</link>
       <pubDate>Sun, 27 Mar 2022 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/blog/ps2-hdd/</guid>
+      <guid>https://www.retromods.pl/blog/ps2-hdd/</guid>
       <description>1. Expansion bay. Dla kogo to? Czemu to służy? Pierwsze modele PS2 w regonie PAL i NTSC (różnie to bywało z NTSC-J), powszechnie znane jako &amp;ldquo;PS2 FAT&amp;rdquo; (SCPH-10000 - SCPH-500xx), od premiery wspierały dodatkowe akcesoria przez tzw.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/psp-instalacja-cfw/</link>
+      <link>https://www.retromods.pl/blog/psp-instalacja-cfw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/psp-instalacja-cfw/</guid>
+      <guid>https://www.retromods.pl/blog/psp-instalacja-cfw/</guid>
       <description></description>
     </item>
   </channel>
